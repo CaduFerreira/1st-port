@@ -18,6 +18,11 @@ p {
   margin-top: 10px;
 }
 
+a {
+  text-decoration: none;
+  color: #353535;
+}
+
 .coluna1 {
   position: absolute;
   display: flex;
